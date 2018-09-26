@@ -1,2 +1,2 @@
 # duplication_rm
-duplication_rm -l reads.list  -o outputfile
+duplication_rm -l reads.list  -o outputpath
